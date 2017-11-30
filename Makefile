@@ -1,11 +1,6 @@
-##
-## Makefile for make in /home/noi7/Lab/cpp/trade
-## 
-## Made by thomas
-## Login   <noi7@epitech.net>
-## 
-## Started on  Sun Jun 11 22:59:54 2017 thomas
-## Last update Mon Jul 24 14:43:17 2017 thomas
+## Made by ner0
+## Started on  Sun Jun 11 22:59:54 2017
+## Last update Mon Jul 24 14:43:17 2017
 ##
 
 NAME		=	abstractVM
